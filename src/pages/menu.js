@@ -16,27 +16,27 @@ const menus = [
             {
                 id: 2,
                 sub: 'Lona Impresa',
-                links: '/service-web'
+                links: '/lona-impresa'
             },
             {
                 id: 3,
                 sub: 'Chapa Calada',
-                links: '/service-ecommerce'
+                links: '/chapa-calada'
             },  
             {
                 id: 4,
                 sub: 'Corpóreas de Chapa',
-                links: '/service-ecommerce'
+                links: '/corporea-chapa'
             },     
             {
                 id: 5,
                 sub: 'Corpóreas de Polifán',
-                links: '/service-ecommerce'
+                links: '/corporea-polifan'
             },
             {
                 id: 6,
                 sub: 'Ploteo en Vinilo',
-                links: '/service-ecommerce'
+                links: '/ploteo-vinilo'
             },          
         ],
     },

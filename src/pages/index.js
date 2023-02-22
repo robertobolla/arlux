@@ -17,7 +17,7 @@ const routes = [
   { path: '/chapa-calada', component: <ChapaCalada />},
   { path: '/corporea-chapa', component: <CorporeasChapa />},
   { path: '/corporea-polifan', component: <CorporeasPolifan />},
-  { path: '/pleteo-vinilo', component: <PloteoVinilo />},
+  { path: '/ploteo-vinilo', component: <PloteoVinilo />},
   { path: '/contact', component: <Contact />},
 ]
 

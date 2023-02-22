@@ -124,14 +124,14 @@ const Collections = () => {
                         <div className="col-xl-5 col-md-12">
                             <div className="block-text">
                                 <h3 className="fs-42 mb-31">Nuestros Trabajos</h3>
-                                <p className="fs-18"> Algunos de nuestros trabajos en carteles circulares con frente de acrílico, contorno de chapa e iluminación Led. Ideal para señalización de entradas o señalización con saliente a la vereda. </p>
+                                <p className="fs-18"> Algunos trabajos en carteles circulares con frente de acrílico, contorno de chapa e iluminación Led para un menor consumo de electricidad. Ideal para señalización de entradas o señalización con saliente a la vereda. </p>
                                 <h3 className="fs-30 mt-37">Otros tipos de carteles</h3>
                                 <ul className="nft">
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Lona Impresa</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Chapa Calada</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Corporéas de Chapa</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Corporéas de Polifán</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Ploteo en Vinilo</span></Link></li>
+                                    <li><Link to="/lona-impresa"><i className="fa fa-arrow-right"></i><span>Lona Impresa</span></Link></li>
+                                    <li><Link to="/chapa-calada"><i className="fa fa-arrow-right"></i><span>Chapa Calada</span></Link></li>
+                                    <li><Link to="/corporea-chapa"><i className="fa fa-arrow-right"></i><span>Corpóreas de Chapa</span></Link></li>
+                                    <li><Link to="/corporea-polifan"><i className="fa fa-arrow-right"></i><span>Corpóreas de Polifán</span></Link></li>
+                                    <li><Link to="/ploteo-vinilo"><i className="fa fa-arrow-right"></i><span>Ploteo en Vinilo</span></Link></li>
                                 </ul>                               
                             </div>
                         </div>

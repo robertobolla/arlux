@@ -74,9 +74,7 @@ const Header = () => {
                                         }
                                     </ul>
                                 </nav>
-                                <div className="button">
-                                    <ButtonOne />
-                                </div>
+                                
                                 
                                 <ul className="social">
                                     <li><Link to="#"><i className="fab fa-facebook-f"></i></Link></li>

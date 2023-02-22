@@ -75,7 +75,7 @@ const Collections = () => {
                             <div className="block-text center">
                                 <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>Arlux</span></h1>
                                 <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">CARTELES</h5>
-                                <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">CIRCULARES</h3>
+                                <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">CORPÓREAS DE CHAPA</h3>
                             </div>
                         </div>
                     </div>
@@ -124,14 +124,14 @@ const Collections = () => {
                         <div className="col-xl-5 col-md-12">
                             <div className="block-text">
                                 <h3 className="fs-42 mb-31">Nuestros Trabajos</h3>
-                                <p className="fs-18"> Algunos de nuestros trabajos en carteles circulares con frente de acrílico, contorno de chapa e iluminación Led. Ideal para señalización de entradas o señalización con saliente a la vereda. </p>
+                                <p className="fs-18"> Algunos trabajos en carteles de letras corpóreas de chapa, pueden ser chapa pintada o acero inoxidable. Son retroiluminadas (luz atrás de las letras) con tecnología Led para menor conusumo eléctrico. </p>
                                 <h3 className="fs-30 mt-37">Otros tipos de carteles</h3>
                                 <ul className="nft">
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Lona Impresa</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Chapa Calada</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Corporéas de Chapa</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Corporéas de Polifán</span></Link></li>
-                                    <li><Link to="#"><i className="fa fa-arrow-right"></i><span>Ploteo en Vinilo</span></Link></li>
+                                    <li><Link to="/carteles-circulares"><i className="fa fa-arrow-right"></i><span>Carteles Circulares</span></Link></li>
+                                    <li><Link to="/lona-impresa"><i className="fa fa-arrow-right"></i><span>Lona Impresa</span></Link></li>
+                                    <li><Link to="/chapa-calada"><i className="fa fa-arrow-right"></i><span>Chapa Calada</span></Link></li>                                    
+                                    <li><Link to="/corporea-polifan"><i className="fa fa-arrow-right"></i><span>Corpóreas de Polifán</span></Link></li>
+                                    <li><Link to="/ploteo-vinilo"><i className="fa fa-arrow-right"></i><span>Ploteo en Vinilo</span></Link></li>
                                 </ul>                               
                             </div>
                         </div>
